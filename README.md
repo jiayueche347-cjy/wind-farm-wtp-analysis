@@ -201,3 +201,18 @@ wind-farm-wtp-analysis/
 │   └── wtp-statistical-analysis.py
 └── report/
     └── wind-farm-wtp-analysis-report.pdf
+```
+
+The Python script contains the main statistical analysis and visualisation workflow used to investigate the WTP distribution and its relationships with income and distance.
+
+The `report/` directory contains the complete group assignment, including the economic interpretation, AI evaluation and supporting results.
+
+---
+
+## Project Information
+
+**Course:** 42014 Environmental and Resource Economics  
+**Institution:** Technical University of Denmark (DTU)  
+**Semester:** Spring 2026  
+**Project:** Group Assignment – Group 12  
+**Topic:** Environmental valuation and willingness to pay for offshore wind farm relocation
